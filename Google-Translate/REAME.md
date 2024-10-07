@@ -1,0 +1,1 @@
+Free Google Translate API for Python. Translates totally free of charge.
